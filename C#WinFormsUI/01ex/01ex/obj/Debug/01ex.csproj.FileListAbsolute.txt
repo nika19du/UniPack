@@ -1,0 +1,11 @@
+E:\coding\C#WinFormsUI\01ex\01ex\bin\Debug\01ex.exe.config
+E:\coding\C#WinFormsUI\01ex\01ex\bin\Debug\01ex.exe
+E:\coding\C#WinFormsUI\01ex\01ex\bin\Debug\01ex.pdb
+E:\coding\C#WinFormsUI\01ex\01ex\obj\Debug\01ex.csproj.AssemblyReference.cache
+E:\coding\C#WinFormsUI\01ex\01ex\obj\Debug\01ex.csproj.SuggestedBindingRedirects.cache
+E:\coding\C#WinFormsUI\01ex\01ex\obj\Debug\_01ex.Form1.resources
+E:\coding\C#WinFormsUI\01ex\01ex\obj\Debug\_01ex.Properties.Resources.resources
+E:\coding\C#WinFormsUI\01ex\01ex\obj\Debug\01ex.csproj.GenerateResource.cache
+E:\coding\C#WinFormsUI\01ex\01ex\obj\Debug\01ex.csproj.CoreCompileInputs.cache
+E:\coding\C#WinFormsUI\01ex\01ex\obj\Debug\01ex.exe
+E:\coding\C#WinFormsUI\01ex\01ex\obj\Debug\01ex.pdb

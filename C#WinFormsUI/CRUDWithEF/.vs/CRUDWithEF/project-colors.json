@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5112aa73-9f5c-44e3-aa84-3b64af7efc64": {
+      "ProjectGuid": "5112aa73-9f5c-44e3-aa84-3b64af7efc64",
+      "DisplayName": "CRUDWithEF",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

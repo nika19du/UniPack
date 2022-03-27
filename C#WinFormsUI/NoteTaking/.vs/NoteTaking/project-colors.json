@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3d5bdb39-bbb8-403d-8a36-6ee5ccb19277": {
+      "ProjectGuid": "3d5bdb39-bbb8-403d-8a36-6ee5ccb19277",
+      "DisplayName": "NoteTaking",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
